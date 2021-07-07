@@ -1,0 +1,8 @@
+{
+  "curators": [
+    { "id": 1, "firstName":  "John", "lastName":  "Doe", "discipline":  "Anthropology" },
+    { "id": 2, "firstName":  "David", "lastName":  "Salt", "discipline":  "Art History" },
+    { "id": 3, "firstName":  "Carlos", "lastName":  "Bravo", "discipline":  "Ceramics" },
+    { "id": 4, "firstName":  "Silvana", "lastName":  "Gross", "discipline":  "Painting" }
+  ]
+}
